@@ -1,0 +1,5 @@
+﻿  Taak2.c
+  Task1.c
+  Создание кода...
+Task1.obj : error LNK2005: main уже определен в Taak2.obj
+E:\SDA_Kotov_Roman_IO-63\x64\Debug\SDA_Kotov_Roman_IO-63.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
